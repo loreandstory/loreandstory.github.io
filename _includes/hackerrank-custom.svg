@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2243"
+   sodipodi:docname="hackerrank-custom.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata2249">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2247" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview2245"
+     showgrid="false"
+     inkscape:zoom="1.1210938"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2243" />
+  <!-- Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) -->
+  <path
+     id="rect2812"
+     style="fill:#1a1a1a;stroke-width:3.8022"
+     d="M 405.81445 97.900391 C 405.96217 97.993478 406.11036 98.08667 406.25781 98.179688 L 406.25781 97.900391 L 405.81445 97.900391 z M 189.39062 116.32031 C 185.44063 116.32031 147.98039 152.09172 150.90039 155.01172 C 151.78039 155.85172 158.49016 156.50156 168.16016 156.85156 L 168.16016 160.02148 C 171.31016 288.69148 169.23055 339.25141 168.31055 372.69141 C 168.18055 377.27141 169.95078 378.80078 174.05078 378.80078 C 184.19078 378.77078 194.33094 378.88086 204.46094 378.88086 C 208.62094 378.94086 210.43117 377.48141 210.20117 372.94141 C 208.37117 336.26141 208.83008 307.16055 208.83008 300.06055 L 288.76172 300.06055 C 288.76172 302.48055 289.20117 303.91016 289.20117 305.91016 C 288.85117 323.64016 288.26172 366.00047 288.26172 392.23047 C 276.97172 392.58047 271.58094 393.19055 270.71094 394.06055 C 267.80283 396.97865 304.66112 432.70169 308.70117 432.74805 C 312.70108 432.70131 349.1496 396.96864 346.27148 394.06055 C 345.40148 393.22055 337.45008 392.5707 328.58008 392.2207 C 328.58008 359.8207 325.58172 373.17086 329.26172 181.88086 C 329.33172 178.22086 328.22172 176.5 324.76172 176.5 C 313.68172 176.43 302.60125 176.48055 291.53125 176.56055 C 288.27125 176.59055 287.22031 178.37172 287.32031 181.76172 C 288.91031 230.66172 288.52148 260.85039 288.52148 265.40039 L 208.26172 265.40039 C 208.89172 239.60039 208.47063 185.76172 210.89062 160.01172 L 210.89062 156.85156 C 219.76063 156.50156 226.79016 155.88172 227.66016 155.01172 C 230.56016 152.10172 193.34062 116.32031 189.39062 116.32031 z " />
+</svg>
