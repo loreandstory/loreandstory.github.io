@@ -6,13 +6,18 @@ description: A blog about lorem ipsum dolor sit amet
 
 # User settings
 username: loreandstory
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Backend Developer
+user_description: I'm a dedicated, innovative, hard-working programmer who holds a degree in Mechanical Engineering and worked for years debugging printers rather than code. I fell in love with programming and have been learning and practicing ever since. My main focus is currently back end development using Ruby, though I do have some knowledge of front end web development and have been tinkering with Rust. I also enjoy making SVG art in Inkscape.
+
+user_title: Software Developer
 email: loreandstory@outlook.com
-github_username:  loreandstory
+github_username: loreandstory
 
 # Google-analytics
 google-analytics:
   id: ""
+
+# Sass
+sass:
+  sass_dir: _sass
 
 exclude: ['package.json', 'src' , 'node_modules']
